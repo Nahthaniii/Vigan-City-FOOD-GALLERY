@@ -82,7 +82,7 @@ body {
     text-align: center;
 }
 .mid-cont h1{
-    font-size: 170px;
+    font-size: 150px;
 }
 
 .navbar-toggler {
@@ -268,4 +268,5 @@ footer a {
     flex-direction: column;
     justify-content: center;
     text-align: center;
+
 }
